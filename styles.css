@@ -1,0 +1,177 @@
+.box1 {
+    background-color: #1f2937;
+    margin: auto;
+    height: 1900px;
+    width: 1200px;
+  }
+  .box2 {
+    background-color: #111827;
+    border-radius: 40px;
+    height: 60px;
+    width: 1100px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+  }
+  .box3 {
+    background-color: #111827;
+    border-radius: 20px;
+    height: 450px;
+    width: 1100px;
+    margin-top: auto;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+  }
+  .box4 {
+    background-color: #111827;
+    border-radius: 20px;
+    height: 800px;
+    width: 1100px;
+    margin-top: auto;
+    margin-right: 50px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+  }
+  .box5 {
+    background-color: #111827;
+    border-radius: 20px;
+    height: 200px;
+    width: 1100px;
+    margin-top: auto;
+    margin-right: 50px;
+    margin-bottom: auto;
+    margin-left: 50px;
+  }
+  .box22 {
+    float: left;
+    height: 15px;
+    width: 200px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 32px;
+    margin-left: 15px;
+  }
+  .style3 {
+    font-size: 18px;
+    color: #ffffff;
+  }
+  .style4 {
+    color: #de4899;
+  }
+  .box31 {
+    font-family: system-ui, sans-serif;
+    float: left;
+    height: 450px;
+    width: 550px;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+  }
+  .style5 {
+    font-size: xx-large;
+  }
+  .style6 {
+    font-size: 18px;
+    color: #ec4899;
+  }
+  .style7 {
+    font-size: 24px;
+    color: #6b7280;
+  }
+  .style8 {
+    font-size: 46px;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  .box32 {
+    background-image: url(coding_girl.jpg);
+    border-radius: 20px;
+    float: right;
+    height: 390px;
+    width: 360px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+  }
+  .box41 {
+    border-style: dashed;
+    color: #ffffff;
+    float: left;
+    height: 450px;
+    width: 370;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-bottom: 250px;
+    margin-left: 100px;
+  }
+  .box411{
+      height: 80px;
+      width: 370px;
+      text-align: center;
+      line-height: 0%;
+  }
+  #join{
+      font-family: system-ui, sans-serif;
+      font-size: 30px;
+      font-weight: 900;
+      font-style: normal;
+      font-variant: normal;
+      text-transform: none;
+      text-decoration: none solid rgb(255, 255, 255);
+      text-indent: 0px;
+  }
+  #Start{
+      color: #6B7280;
+      font-family: system-ui, sans-serif;
+      line-height: 22.4px;
+      vertical-align: baseline;
+      letter-spacing: normal;
+      word-spacing: 0px;
+      font-weight: 700;
+      font-style: normal;
+      font-variant: normal;
+      text-transform: none;
+      text-decoration: none solid rgb(107, 114, 128);
+  }
+  .box42 {
+    background-color: #ec4899;
+    border-radius: 20px;
+    float: right;
+    color: #ffffff;
+    font-family: system-ui, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+    height: 600px;
+    line-height: 32px;
+    letter-spacing: normal;
+    margin-top: 35px;
+    margin-right: 35px;
+    margin-bottom: 35px;
+    margin-left: auto;
+    text-transform: none;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-align: center;
+    text-indent: 0px;
+    vertical-align: baseline;
+    width: 500px;
+    word-spacing: 0px;
+  }
+  .Paul{
+      color: #F285D0;
+      font-size: 16px;
+  }
+  #CAT{
+    margin-top: 50PX;
+    color: #ffffff;
+    font-size: 18px;
+    
+  }
+  .after{
+    color: #de4899;
+  }
