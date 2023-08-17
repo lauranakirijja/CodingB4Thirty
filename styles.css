@@ -19,6 +19,18 @@ body {
   height: 60px;
   width: 100%;
   margin-bottom: 24px;
+  
+}
+.btn1{
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #DB2777;
+  padding: 0.5rem;
+  width: 50%;
+  border-radius: 35px;
+  border: 0px;
+  margin-left: 570%;
+  align-self: center;
 }
 .content {
   background-color: #111827;
@@ -27,12 +39,29 @@ body {
   width: 100%;
   display: flex;
   flex-direction: row;
-  margin: 24px 0px;
+  margin: 24px;
+  margin-left: 15px;
 }
 .container {
   height: 450px;
   width: 50%;
   padding: 32px;
+}
+.style5 {
+  font-size: xx-large;
+  margin-left: 15px;
+  margin-top: 60px;
+}
+.btn2{
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #DB2777;
+  padding: 0.8rem;
+  width: 30%;
+  border-radius: 35px;
+  border: 0px;
+  margin-left: 5px;
+  margin-top: 20px;
 }
 .img {
   border-radius: 20px;
@@ -58,7 +87,7 @@ body {
 .left {
   display: flex;
   flex-direction: column;
-  margin: 0px 52px;
+  margin: 150px 52px;
   padding: 128px 0px;
   justify-content: center;
   align-items: center;
@@ -103,33 +132,55 @@ body {
 .element label {
   color: #6b7280;
 }
-
+.btn3{
+  font-size: 20px;
+  color: #ffffff;
+  font-weight: 400;
+  background-color: #DB2777;
+  padding: 1rem;
+  width: 50%;
+  border-radius: 35px;
+  border: 0px;
+  margin-left: 30px;
+  margin-top: 15px;
+  
+}
 .right {
   background-color: #ec4899;
   border-radius: 20px;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 700;
   height: 840px;
+  padding-top: 130px;
 }
-.Paul {
+.Paul{
+  margin-top: auto;
+  margin-left: 210px;
+  margin-bottom: 100px;
+}
+.Paul1 {
   color: #f285d0;
   font-size: 16px;
+  margin-top: auto;
+  margin-left: 190px;
+  margin-bottom: 100px;
 }
 .box5 {
   background-color: #111827;
   border-radius: 20px;
-  height: 200px;
+  height: 170px;
   width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 80px;
 }
 .box22 {
   float: left;
-  height: 15px;
   width: 200px;
   margin-top: 20px;
   margin-right: auto;
-  margin-bottom: 32px;
-  margin-left: 15px;
+  margin-left: 20px;
 }
 .style3 {
   font-size: 18px;
@@ -137,10 +188,6 @@ body {
 }
 .style4 {
   color: #de4899;
-}
-
-.style5 {
-  font-size: xx-large;
 }
 .style6 {
   font-size: 18px;
@@ -162,10 +209,33 @@ body {
   line-height: 0%;
 }
 #CAT {
-  margin-top: 50px;
+  margin-top: 75px;
+  margin-left: 30px;
   color: #ffffff;
   font-size: 18px;
 }
 .after {
   color: #de4899;
+}
+.copyright{
+  text-align: center;
+  padding-top: 25px;
+  color: #5F7280;
+  font-size: 16px;
+}
+.finalCat{
+  color: #ffffff;
+}
+.fa-brands{
+  margin-right: 20px;
+  font-size: 1.5rem;
+}
+.icons{
+  margin-right: 20px;
+  margin-left: auto;
+  margin-top: 75px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end center;
+  
 }
