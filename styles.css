@@ -19,12 +19,11 @@ body {
   height: 60px;
   width: 100%;
   margin-bottom: 24px;
-  
 }
-.btn1{
+.btn1 {
   font-size: 14px;
   color: #ffffff;
-  background-color: #DB2777;
+  background-color: #db2777;
   padding: 0.5rem;
   width: 50%;
   border-radius: 35px;
@@ -52,10 +51,10 @@ body {
   margin-left: 15px;
   margin-top: 60px;
 }
-.btn2{
+.btn2 {
   font-size: 14px;
   color: #ffffff;
-  background-color: #DB2777;
+  background-color: #db2777;
   padding: 0.8rem;
   width: 30%;
   border-radius: 35px;
@@ -132,18 +131,17 @@ body {
 .element label {
   color: #6b7280;
 }
-.btn3{
+.btn3 {
   font-size: 20px;
   color: #ffffff;
   font-weight: 400;
-  background-color: #DB2777;
+  background-color: #db2777;
   padding: 1rem;
   width: 50%;
   border-radius: 35px;
   border: 0px;
   margin-left: 30px;
   margin-top: 15px;
-  
 }
 .right {
   background-color: #ec4899;
@@ -154,7 +152,7 @@ body {
   height: 840px;
   padding-top: 130px;
 }
-.Paul{
+.Paul {
   margin-top: auto;
   margin-left: 210px;
   margin-bottom: 100px;
@@ -217,25 +215,24 @@ body {
 .after {
   color: #de4899;
 }
-.copyright{
+.copyright {
   text-align: center;
   padding-top: 25px;
-  color: #5F7280;
+  color: #5f7280;
   font-size: 16px;
 }
-.finalCat{
+.finalCat {
   color: #ffffff;
 }
-.fa-brands{
+.fa-brands {
   margin-right: 20px;
   font-size: 1.5rem;
 }
-.icons{
+.icons {
   margin-right: 20px;
   margin-left: auto;
   margin-top: 75px;
   display: flex;
   flex-direction: row;
   align-items: flex-end center;
-  
 }
