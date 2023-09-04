@@ -19,16 +19,18 @@ body {
   height: 60px;
   width: 100%;
   margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  padding: 0 34px;
 }
 .btn1 {
   font-size: 14px;
   color: #ffffff;
   background-color: #db2777;
   padding: 0.5rem;
-  width: 50%;
+  width: auto;
   border-radius: 35px;
   border: 0px;
-  margin-left: 570%;
   align-self: center;
 }
 .content {
@@ -38,8 +40,7 @@ body {
   width: 100%;
   display: flex;
   flex-direction: row;
-  margin: 24px;
-  margin-left: 15px;
+  margin-bottom: 60px;
 }
 .container {
   height: 450px;
@@ -68,7 +69,7 @@ body {
 }
 .img img {
   height: 380px;
-  width: 560px;
+  width: 100%;
   border-radius: 20px;
 }
 .info {
@@ -174,11 +175,11 @@ body {
   margin-top: 80px;
 }
 .box22 {
-  float: left;
-  width: 200px;
-  margin-top: 20px;
-  margin-right: auto;
-  margin-left: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 .style3 {
   font-size: 18px;
@@ -227,6 +228,10 @@ body {
 .fa-brands {
   margin-right: 20px;
   font-size: 1.5rem;
+  color: #686c73;
+}
+.fa-brands:hover{
+  color: #db2777;
 }
 .icons {
   margin-right: 20px;
